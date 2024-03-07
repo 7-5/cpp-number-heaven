@@ -40,6 +40,5 @@ int main(){
     int c=std::pow(5,3);
     cml b(2,1);
     std::cout<<to_string(a+c);
-    std::cin>>c;
     return 0;
 }
