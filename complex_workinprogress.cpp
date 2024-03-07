@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <cmath>
-// class cml, splitcml, dualcml, surrealnum, quarternion, octonion, sedenion, n-adic num, kafaný çalýþtýr edgelord
+// class cml, splitcml, dualcml, surrealnum, quarternion, octonion, sedenion, n-adic num, kafanï¿½ ï¿½alï¿½ï¿½tï¿½r edgelord
 class cml{
 	//define polar form
 	//define atan2func
@@ -40,5 +40,6 @@ int main(){
     int c=std::pow(5,3);
     cml b(2,1);
     std::cout<<to_string(a+c);
+    std::cin>>c;
     return 0;
 }
