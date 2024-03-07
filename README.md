@@ -4,4 +4,6 @@ if you steal i ll get so angry for it i might empty a jar of honey on you. which
 both are my projects and i am summing them into a superproject.
 holdon im gonna add some more, i ll be adding my custom defined functions.
 
-heres some [documentation](DOC.md)
+heres some [documentation](DOC.md) (nothing there at the moment)
+
+code isnt optimised, this project used to be for personal purposes.
