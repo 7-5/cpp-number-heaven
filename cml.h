@@ -5,8 +5,8 @@
 #include <iostream>
 #include <string>
 #include <cmath>
-// class cml, splitcml, dualcml, surrealnum, quarternion, octonion, sedenion, n-adic num, kafan� �al��t�r edgelord
-class cml{
+// class cml, splitcml, dualcml, surrealnum, quarternion, octonion, sedenion, n-adic num.
+class cml{//todo
 	//define polar form
 	//define atan2func
 	//define 2pik k
