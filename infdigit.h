@@ -1,3 +1,7 @@
+//infdigit.h
+#ifndef INFDIGIT_H
+#define INFDIGIT_H
+
 #include <iostream>
 using namespace std;
 class dgt3{ // three 10-ary digits. holds the closed interval [0-999] there is no sign. sign and subtraction will be defined at a later data type.
@@ -84,7 +88,4 @@ public:
         cout<<toint(current->kDgt)<<" ";
         current=current->next;}
         cout<<endl;}};
-
-int main(){
-    return 0;
-}
+#endif

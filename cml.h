@@ -1,3 +1,7 @@
+//cml.h
+#ifndef CML_H
+#define CML_H
+
 #include <iostream>
 #include <string>
 #include <cmath>
@@ -35,10 +39,11 @@ std::string to_string(cml a){
             b=b+std::to_string(a.imag);
         b=b+"i";}
     return b;}
-int main(){
+/*int main(){
     cml a(1,5);
     int c=std::pow(5,3);
     cml b(2,1);
     std::cout<<to_string(a+c);
     return 0;
-}
+}*/
+#endif
