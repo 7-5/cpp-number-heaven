@@ -1,5 +1,6 @@
-# cpp-number-heaven
-this is me trying to merge my endlessdigit and hypercomplexnumber projects together.
-if you steal i ll get so angry for it i might empty a jar of honey on you. which wouldnt be nice, at least you can get my intention in doing so.
-both are my projects and i am summing them into a superproject.
-holdon im gonna add some more, i ll be adding my custom defined functions.
+# cpp-number-heaven documentation
+theres like no documentation yet.
+what this is is its like two of my projects i want to make it into library or something
+it ll allow complex numbers, hypercomplex numbers, dual numbers, split complex numbers etc and maybe even more.
+also i kinda dont remember what i did but it was like linkedlist with modulo 1000 as byte so like its more digits than integer limits
+both i wanna combine some time later
