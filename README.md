@@ -7,3 +7,4 @@ holdon im gonna add some more, i ll be adding my custom defined functions.
 heres some [documentation](DOC.md) (nothing there at the moment)
 
 code isnt optimised, this project used to be for personal purposes.
+project is cool but meh i feel like abandoning. things are just much i gotta do some other stuff rn in my life
